@@ -1,12 +1,12 @@
 
 ---
 
-# 📄 《Koun Semantic License（KSL）1.0》使用條款（中文版本）
+# 📄 《Koun Semantic License（KSL）1.1》使用條款（中文版本）
 
-版本號：1.0
+版本號：1.1
 授權類型：語義原創性聲明 × 知識共享式授權協議
-發佈日期：2025年4月
-作者：Shu Koun
+發佈日期：2025年7月
+作者：Shu Koun /ʃu koʊn/ (朱庫文)
 
 ---
 
