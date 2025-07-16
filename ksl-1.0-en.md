@@ -1,9 +1,9 @@
 # 📄 Koun Semantic License (KSL) 1.0 – English Version
 
-Version: 1.0  
+Version: 1.1  
 License Type: Semantic-Origin Declaration × Knowledge-Sharing Agreement  
 Release Date: April 2025  
-Author: Shu Koun (书库恩)
+Author: Shu Koun /ʃu koʊn/ (朱庫文)
 
 ---
 
@@ -22,7 +22,7 @@ You are free to use this work under the following conditions:
 
 - You may **read, quote, translate, adapt, modify, or derive from** the contents of this work;
 - Permitted uses include **individual study, education, non-commercial open-source projects, public lectures, or academic teaching**;
-- **Attribution is mandatory**: you must clearly credit the author (Shu Koun / 书库恩) and provide a reference to the original work;
+- **Attribution is mandatory**: you must clearly credit the author (Shu Koun) and provide a reference to the original work;
 - If you use or extend original terms, structures, or diagrams, you **must acknowledge their semantic origin in the Koun system**.
 
 ---
