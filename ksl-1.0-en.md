@@ -1,4 +1,4 @@
-# 📄 Koun Semantic License (KSL) 1.0 – English Version
+# 📄 Koun Semantic License (KSL) 1.1 – English Version
 
 Version: 1.1  
 License Type: Semantic-Origin Declaration × Knowledge-Sharing Agreement  
