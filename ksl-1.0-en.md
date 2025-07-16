@@ -2,7 +2,7 @@
 
 Version: 1.1  
 License Type: Semantic-Origin Declaration × Knowledge-Sharing Agreement  
-Release Date: April 2025  
+Release Date: July 2025  
 Author: Shu Koun /ʃu koʊn/ (朱庫文)
 
 ---
