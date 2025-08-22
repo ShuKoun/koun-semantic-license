@@ -84,3 +84,101 @@ In a world of generative language and semantic overflow, the Koun Semantic Licen
 > Meaning has structure.  
 > Attribution is semantic responsibility.**
 
+
+
+---
+
+**Update Notice (English)**
+Updated on August 22, 2025: All previous versions of this license are now considered outdated. From this date onward, the Koun Semantic License, Version 1.2 shall apply; if future versions are released, the most recent version shall take precedence.
+
+# 📄 Koun Semantic License (KSL) 1.2 — Terms of Use (English Version)
+
+Version: 1.2
+License Type: Semantic Originality Declaration × Knowledge-Sharing License Agreement
+Release Date: August 2025
+Author: Shu Koun /ʃu koʊn/ (朱庫文)
+
+---
+
+## 1. Purpose of the License
+
+The **Koun Semantic License (KSL)** is designed to safeguard the originality, definitional authority, and usage boundaries of semantic creations, while promoting their wide application in non-commercial and research domains.
+This license applies to all texts, terminologies, models, system architectures, diagrams, and reasoning logics marked as “Released under the Koun Semantic License.”
+
+---
+
+## 2. Licensed Usage
+
+### ✅ Permitted Conditions (Non-Commercial / Research Use)
+
+You are free to use this licensed work under the following conditions:
+
+* You may **read, cite, copy, translate, adapt, derive, and implement** the contents of this work;
+* You may use it for **personal study, education, research, non-commercial open-source projects, lectures, or course teaching**;
+* You must **retain the author attribution** (Shu Koun) and the original source statement;
+* In derivative works that employ original terminologies, structures, or diagrams, you must **acknowledge them as extensions or references to Koun’s original definitions**.
+
+---
+
+### 🧩 2.1 Clarification on Derivative Works (New in 1.2)
+
+To avoid ambiguity, KSL distinguishes between two categories of “derivation”:
+
+1. **Open Derivation**
+   This includes, but is not limited to: summaries, cross-language translations, visual adaptations, teaching materials, commentaries, explanatory videos, creative dialogues, etc.
+   Such derivative works **do not require additional authorization**, provided that the author’s name and original semantic attribution are retained.
+
+2. **Structural Derivation / Semantic Extension**
+   Any work that takes the **core theoretical structures** covered by this license (e.g., the Semantic Universe Tower, conditions of semantic freedom, encapsulation adjudication logics, etc.) as a foundation to **extend, modularize, redesign application logic, generate reasoning mechanisms, or develop into an independent theoretical system**
+   **requires prior authorization from the author**, in order to preserve the stability and clarity of the original semantic framework.
+
+---
+
+## 3. Restrictions
+
+Without prior written authorization, the following acts are strictly prohibited:
+
+* Using the contents of this work, or its key terminologies/structures, in **commercial software, SaaS, closed-source services, or profit-oriented products**;
+* **Redefining original terminologies**, or republishing without semantic source attribution;
+* Using this work in any form of **semantic plagiarism, author impersonation, or uncredited academic use**;
+* Licensing, reselling, or sublicensing works based on the Koun theories **without explicit authorization from the author**.
+
+---
+
+## 4. Terminology and Semantic Locus Statement
+
+* The **core terminologies** covered by this license (e.g., semantic node, semantic tension, KounGraph, semantic convergence, counter-cause, etc.) are original theoretical inventions;
+* Users must respect the existing definitions of these terms and may not appropriate them in contexts that diverge substantially from their original meaning;
+* All terminologies may be regarded as **semantic loci**, possessing origin-based and semantic ownership attributes.
+
+---
+
+## 5. Commercial Use Application
+
+If you intend to use this work in the following contexts:
+
+* Developing commercial products or platforms based on the Koun system;
+* Integrating it into enterprise applications, closed-source models, training datasets, or large language models;
+* Using it in paid contexts such as publishing, consulting, teaching, or commercial presentations;
+
+Please contact the author to apply for commercial authorization, which will be subject to case-by-case review and negotiation.
+📩 Contact: **[shu-koun@hotmail.com](mailto:shu-koun@hotmail.com)**
+
+---
+
+## 6. Legal Validity and Notes
+
+* This license constitutes a legally binding agreement, applicable to semantic-related creations and technical uses worldwide;
+* In case of ambiguity or dispute regarding the scope of terms and definitions, the author retains final interpretive authority;
+* The English and Chinese versions of this license carry equal validity. In the event of semantic discrepancies, the **Chinese version shall prevail**.
+
+---
+
+## 7. Recommended Citation
+
+When citing this work, it is recommended to include the following note:
+
+> This work incorporates concepts released under the *Koun Semantic License (KSL)*, authored by Shu Koun. For detailed definitions and usage terms, see [GitHub: Koun Semantic License](https://github.com/ShuKoun/koun-semantic-license).
+
+---
+
