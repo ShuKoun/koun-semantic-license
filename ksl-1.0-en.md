@@ -1,3 +1,5 @@
+# **The most recent version take precedence !**
+
 # 📄 Koun Semantic License (KSL) 1.1 – English Version
 
 Version: 1.1  
