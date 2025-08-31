@@ -184,3 +184,120 @@ When citing this work, it is recommended to include the following note:
 
 ---
 
+
+**Update Notice (English)**
+Updated on August 31, 2025: All previous versions of this license are now considered outdated. From this date onward, the Koun Semantic License, Version 1.3 shall apply; if future versions are released, the most recent version shall take precedence.
+
+
+
+---
+
+# 📄 Koun Semantic License (KSL) 1.3 — Terms of Use (English Version)
+
+**Version:** 1.3
+**License Type:** Semantic Originality Declaration × Knowledge-Sharing License Agreement
+**Release Date:** September 2025
+**Author:** Shu Koun /ʃu koʊn/ (朱庫文)
+
+---
+
+## 1. Purpose of the License
+
+The **Koun Semantic License** (KSL) is designed to safeguard the originality, definitional authority, and usage boundaries of semantic creations, while at the same time promoting their broad application in non-commercial and research contexts.
+These terms apply to all texts, terminologies, models, system architectures, diagrams, and reasoning logics explicitly labeled as “Published under the Koun Semantic License.”
+
+---
+
+## 2. Licensed Content
+
+### ✅ Open License Conditions (Non-Commercial / Research Use)
+
+Under the following conditions, you are free to use works covered by this license:
+
+* You may **read, cite, copy, translate, adapt, derive from, and implement** the contents of this work;
+* Usage is permitted for **personal study, education, research, non-commercial open-source projects, lectures, or teaching**;
+* **Author attribution (Shu Koun) and source declaration must be retained**;
+* If derivative works employ original terminology, structures, or diagrams, they must **explicitly indicate them as extensions or references to Koun’s original definitions**.
+
+---
+
+### 🧩 2.1 Classification of Derivative Works
+
+To avoid ambiguity, KSL distinguishes between two categories of “derivative works”:
+
+1. **Open Derivation**
+   Including but not limited to: summaries, cross-language translations, graphical adaptations, teaching materials, reading notes, explanatory videos, dialogues, or creative reinterpretations.
+   Such open derivations **require no additional permission**, provided that the author’s name and original semantic attribution are preserved.
+
+2. **Structural Derivation / Semantic Extension**
+   Any work that builds upon the **core theoretical structures** of this license (e.g., the Semantic Universe Tower, conditions of semantic freedom, encapsulation logics, etc.) to produce **extensions, modular designs, reconstructed applications, reasoning mechanisms, or new theoretical systems**
+   **must obtain prior authorization from the author**, to preserve the stability and clarity of semantic ownership.
+
+---
+
+## 3. Restrictions
+
+Without prior written permission, the following actions are strictly prohibited:
+
+* Using this work’s content, key terminology, or frameworks in **commercial software, SaaS, closed-source services, or profit-oriented products**;
+* **Redefining original terms**, or removing semantic source markings and republishing them;
+* Employing this work for **semantic plagiarism, misattribution of authorship, or academic use without proper citation**;
+* Licensing, selling, or sublicensing works based on the Koun series of theories **without explicit authorization**.
+
+---
+
+## 4. Terminology and Semantic Locus Statement
+
+* The **core terminologies** covered in this license (e.g., semantic node, semantic tension, KounGraph, semantic convergence, adversarial factor, etc.) are original theoretical contributions;
+* Users must respect the existing definitions when citing them and may not apply them in contexts that **severely deviate from their original meaning**;
+* All terms should be regarded as **semantic loci**, bearing origin status and semantic ownership attributes.
+
+---
+
+## 5. Commercial Use Application
+
+If you intend to use this work in the following contexts:
+
+* Development of commercial products/platforms based on the Koun system;
+* Integration into enterprise applications, closed-source models, training datasets, or large language models;
+* Paid services such as publishing, teaching, consulting, or professional applications;
+
+You must apply for a commercial license. Authorization will be subject to case-by-case evaluation and negotiation with the author.
+📩 Contact: **[shu-koun@hotmail.com](mailto:shu-koun@hotmail.com)**
+
+---
+
+## 6. Legal Validity and Notes
+
+* These license terms constitute a legally binding agreement, applicable globally to semantic-related creations and technological use;
+* In cases of ambiguity or dispute regarding the scope of these terms, the final interpretative authority is reserved by the author;
+* Both the English and Chinese versions of this license hold equal validity; in case of semantic conflict, the **Chinese version shall prevail**.
+
+---
+
+## 7. Recommended Citation Format
+
+When citing this work, the following note is recommended:
+
+> This work incorporates concepts published under the Koun Semantic License, authored by Shu Koun. For definitions and licensing details, see [GitHub: Koun Semantic License](https://github.com/ShuKoun/koun-semantic-license).
+
+---
+
+## 8. AGI and Institutional Application Acknowledgment Clause (New)
+
+1. **Acknowledgment Obligation**
+   Any implementation of **AGI, commercial applications, institutional designs, or governance frameworks** that incorporates the Koun-U Theory must explicitly acknowledge Koun-U Theory as its foundational theoretical framework.
+
+2. **Transmissibility**
+   This acknowledgment obligation is **transmissible**: any secondary or subsequent applications built upon such implementations must also clearly acknowledge Koun-U Theory as their foundational source.
+
+3. **Attribution Recommendation**
+   In public documents, publications, patents, or product descriptions, it is **recommended** that contributor lists or acknowledgments explicitly state:
+   “Based on Koun-U Theory, Author: Shu Koun.”
+
+---
+
+⚖️ **Note:** This version strikes a balance — acknowledgment of Koun-U Theory is mandatory, while inclusion of “Shu Koun” in contributor lists is strongly recommended but not enforced, ensuring legal robustness without over-restrictiveness.
+
+---
+
